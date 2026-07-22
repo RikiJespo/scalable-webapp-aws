@@ -4,7 +4,7 @@ Proyek latihan membangun arsitektur web application 3-tier yang scalable di AWS,
 
 ## Arsitektur
 
-![Architecture Diagram](docs/screenshots/21-architecture-diagram.png)
+![Architecture Diagram](docs/screenshots/21-architecture-diagram.svg)
 
 ```
 Internet
